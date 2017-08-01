@@ -8,10 +8,7 @@
 # - "materials embodying confidential information"
 # - "with respect to"
 
-
-
 This agreement sets out terms that protect <Confidential Information> the parties may exchange.  ""Disclosing Party"" describes each party with respect to <Confidential Information> it discloses to the other party.  ""Receiving Party"" describes each party with respect to <Confidential Information> it receives from the other party.
-
 
     \RxNDA Form\  This is a development draft of RxNDA Form N-2W-I2I.  See https://rxnda.com for license terms and other information.
 
@@ -21,13 +18,9 @@ This agreement sets out terms that protect <Confidential Information> the partie
 
         \\  Subject to {Exclusions}, ""Confidential Information"" means the following kinds of information:
 
-            
-
-            
             \\  information disclosed in writing during the term of this agreement that is marked to indicate that it is confidential, such as with words like "confidential", "proprietary", "privileged", and similar;
 
             \\  information otherwise disclosed during the term of this agreement that <Disclosing Party> identifies in writing as confidential within one calendar week of disclosure;
-            
 
             \\  the fact that the parties are pursuing the <Purpose>;
 
@@ -51,11 +44,7 @@ This agreement sets out terms that protect <Confidential Information> the partie
 
             \\  Except as described in {Permitted Disclosure}, <Receiving Party> shall not disclose <Confidential Information> to anyone.
 
-            
-
-            
             \Permitted Disclosure\  <Receiving Party> may disclose <Confidential Information> to legal and financial advisers providing services to <Receiving Party> whose conduct is regulated by laws or professional rules that impose confidentiality obligations.
-            
 
         \Limited Use\  <Receiving Party> shall use <Confidential Information> only to advance the <Purpose>.
 
@@ -86,8 +75,6 @@ This agreement sets out terms that protect <Confidential Information> the partie
             \Records Policy\  When this agreement terminates, if <Receiving Party> has a written records retention policy for the creation and scheduled destruction of archival or backup records, and only specialized personnel can routinely access those records, then <Receiving Party> may retain materials embodying <Confidential Information> until destroyed under that policy.
 
         \Comply with Export Controls\  Both parties shall comply with export and reexport laws with respect to <Confidential Information>.
-
-        
 
     \Clarifications\
 
